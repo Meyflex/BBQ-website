@@ -30,7 +30,7 @@
 ## À propos du projet
 ![image](https://user-images.githubusercontent.com/98128042/186428087-dfe54bca-848c-4186-ae4b-4be4928ff3f9.png)
 
-* Ce project est fait afin  de s'ameliorer et maitriser le Html CSS .C'est une page de login responsivce . clickez <a name="general-info" href="https://meyflex.github.io/Carousel
+* Ce project est fait afin  de s'ameliorer et maitriser le Html CSS .C'est une page de login responsivce . clickez <a name="general-info" href="https://meyflex.github.io/BBQ-website
 ">ici </a> pour acceder au site.
 
 
